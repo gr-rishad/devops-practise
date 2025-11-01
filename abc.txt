@@ -1,3 +1,4 @@
 text 1
 text conflict resolve
 text 3
+commit for rebase
