@@ -4,3 +4,4 @@ text 3
 commit for rebase
 commit for rebase 2
 commit for rebase 3
+commit for squash
